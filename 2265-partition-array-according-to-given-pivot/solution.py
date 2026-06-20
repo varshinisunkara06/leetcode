@@ -13,3 +13,4 @@ class Solution:
                 right.append(num)
 
         return left + p + right
+        
